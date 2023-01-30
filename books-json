@@ -1,0 +1,69 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_date": "1960-07-11",
+      "description": "A classic novel set in the 1930s about racial injustice and the loss of innocence in a small Alabama town."
+    },
+    {
+      "id": 2,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_date": "1813-01-28",
+      "description": "A timeless novel about the prejudices and misunderstandings between members of the landed gentry and the emerging middle class."
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_date": "1925-04-10",
+      "description": "A novel about the decadence and excess of the Roaring Twenties, and the disillusionment of the American Dream."
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_date": "1949-06-08",
+      "description": "A dystopian novel about a totalitarian government and its manipulation of history and information."
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_date": "1951-07-16",
+      "description": "A novel about a teenage boy struggling with alienation and growing up in post-World War II America."
+    },
+    {
+      "id": 6,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "publication_date": "1979-10-12",
+      "description": "A comedic science fiction novel about an unwitting human and his alien friend traveling through space."
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publication_date": "1954-07-29",
+      "description": "An epic fantasy novel about a hobbit who joins a quest to destroy a powerful ring and defeat an evil ruler."
+    },
+    {
+      "id": 8,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "publication_date": "1967-06-08",
+      "description": "A novel about seven generations of a Colombian family and their magical realist experiences."
+    },
+    {
+      "id": 9,
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "publication_date": "1947-06-25",
+      "description": "A non-fiction diary about a Jewish girl hiding from the Nazis in Amsterdam during World War II."
+    }
+  ]
+}
+
+      
